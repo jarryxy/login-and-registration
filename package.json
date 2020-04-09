@@ -1,0 +1,15 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "form",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "假前端up主",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.7.0"
+  }
+}
